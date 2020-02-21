@@ -1,8 +1,6 @@
-/home/severino/eclipse-workspace/inmetrics/src/main/java/PageObjects/LoginPage.java
-/home/severino/eclipse-workspace/inmetrics/src/main/java/PageObjects/AdicionarTaskPageObject.java
-/home/severino/eclipse-workspace/inmetrics/src/main/java/configuracoes/GerenciadorChromeDriver.java
-/home/severino/eclipse-workspace/inmetrics/src/main/java/configuracoes/GerenciadorFirefoxDriver.java
-/home/severino/eclipse-workspace/inmetrics/src/main/java/configuracoes/GerenciadorDeDriver.java
-/home/severino/eclipse-workspace/inmetrics/src/main/java/configuracoes/DriverManagerFactory.java
-/home/severino/eclipse-workspace/inmetrics/src/main/java/PageObjects/ListarTaksPageObject.java
-/home/severino/eclipse-workspace/inmetrics/src/main/java/configuracoes/DriverType.java
+/home/severino/git/inmetrics/src/main/java/configuracoes/GerenciadorFirefoxDriver.java
+/home/severino/git/inmetrics/src/main/java/PageObjects/LoginPage.java
+/home/severino/git/inmetrics/src/main/java/configuracoes/DriverType.java
+/home/severino/git/inmetrics/src/main/java/configuracoes/GerenciadorChromeDriver.java
+/home/severino/git/inmetrics/src/main/java/configuracoes/GerenciadorDeDriver.java
+/home/severino/git/inmetrics/src/main/java/configuracoes/DriverManagerFactory.java
