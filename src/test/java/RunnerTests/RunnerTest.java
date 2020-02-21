@@ -15,7 +15,9 @@ import cucumber.api.junit.Cucumber;
 
  @RunWith(Cucumber.class)
  
- @CucumberOptions(features = {"src/Features"}, glue = {"stepDefinition/"})
+ @CucumberOptions(features = {"src/Features"}, glue = {"stepDefinition/"},
+ plugin = {"pretty","html:target/cucmber-html-report"}
+		 )
  
 public class RunnerTest {
 	
