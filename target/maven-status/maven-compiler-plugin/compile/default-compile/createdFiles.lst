@@ -1,0 +1,7 @@
+configuracoes/GerenciadorDeDriver.class
+PageObjects/TaskPage.class
+configuracoes/GerenciadorFirefoxDriver.class
+configuracoes/DriverType.class
+configuracoes/DriverManagerFactory$1.class
+configuracoes/GerenciadorChromeDriver.class
+configuracoes/DriverManagerFactory.class

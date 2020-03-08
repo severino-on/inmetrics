@@ -26,9 +26,10 @@ public class StepTask {
 
 	@Before
 	public void acessarLogin() {
-		gerenciadorDeDriver = DriverManagerFactory.getGerenciadorDeDriver(DriverType.FIREFOX);
+		gerenciadorDeDriver = DriverManagerFactory.getGerenciadorDeDriver(DriverType.CHORME);
 		driver = gerenciadorDeDriver.getWebDriver();
-		driver.get("http://www.juliodelima.com.br/taskit/");
+		driver.get("http://www.juliodelima.com.br/taskit");
+		driver.manage().window().maximize();
 	}
 
 	@Given("Entrar na url")
